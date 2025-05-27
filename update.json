@@ -1,6 +1,0 @@
-{
-  "scripts": {
-    "build": "tsc",
-    "dev": "vercel dev"
-  }
-}
